@@ -3,8 +3,8 @@ backend:
   repo: designfolio/designfolio.github.io
   branch: gh-pages
   site_domain: https://hilarious-lollipop-de27a7.netlify.app
-  auth_endpoint: api/auth
-  base_url: https://api.netlify.com
+  # auth_endpoint: api/auth
+  # base_url: https://api.netlify.com
 
 media_folder: "images/uploads"
 
